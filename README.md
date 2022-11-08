@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thekarki
-- 👀 I’m interested in Fullstack
-- 🌱 I’m currently learning html css
-- 💞️ I’m looking to collaborate on Learning
+
+- -- HTML, CSS, PYTHON 
+- --learning JS
+- --Interested in Fullstack development 
 - 📫 How to reach me? By whats app +358443718782
 
 <!---
